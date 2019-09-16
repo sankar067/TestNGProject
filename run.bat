@@ -1,0 +1,1 @@
+java -cp bin;poi-4.1.0/*;lib/* org.testng.TestNG TestNGTrail.xml

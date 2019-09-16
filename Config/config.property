@@ -1,0 +1,9 @@
+chromedriver=R:/drivers/chromedriver.exe
+
+iedriver=R:/drivers/IEDriverServer.exe
+
+firefoxdriver=R:/drivers/geckodriver.exe
+
+Url=https://wordpress.com/wp-login.php
+
+ExcelPath=R:/LEARNING/SeleniumGit/MyLearningProject/Data/Book1.xlsx
